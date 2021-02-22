@@ -1,1 +1,0 @@
-# mh-work-day-scheduler
